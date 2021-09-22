@@ -1,0 +1,1 @@
+Edit the config_flickr.ini file and give the path where to download images. Also keep the folder there.
