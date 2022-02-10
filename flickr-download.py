@@ -16,6 +16,7 @@ from io import BytesIO
 from hashlib import sha256
 
 # https://code.flickr.net/2008/08/19/standard-photos-response-apis-for-civilized-age/
+#####################################################################################
 
 # Nicely formatted time string
 def hms_string(sec_elapsed):
